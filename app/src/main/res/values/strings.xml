@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">recycler</string>
+    <string name="photo_of_user">Photo of user</string>
+    <string name="sort_by_name">sort by name</string>
+    <string name="sort_by_age">sort by age</string>
+    <string name="remove_top_user">remove top user</string>
 </resources>
